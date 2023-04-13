@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.skydoves.androidribbon.RibbonView
+        android:layout_width="wrap_content"
+        android:id="@+id/pokemonTypeName"
+        app:ribbon_padding_top="5dp"
+        app:ribbon_padding_bottom="5dp"
+        app:ribbon_padding_left="20dp"
+        app:ribbon_padding_right="20dp"
+        android:textColor="@color/white"
+        app:ribbon_ribbonRadius="20dp"
+        android:text="Water"
+        android:layout_height="wrap_content" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
