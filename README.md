@@ -1,6 +1,11 @@
 # Pokemon Android App using Pokedex API
 This repository contains an Android app that allows users to browse through the various Pokemon species using the Pokedex API. The app is built using Java programming language.
 
+# Demo
+![PokéDex](https://user-images.githubusercontent.com/101062393/232351392-7372d0df-ca30-4d87-8200-132785fe1d7d.png)
+
+
+
 # Features
 The Pokemon Android app comes with the following features:
 
